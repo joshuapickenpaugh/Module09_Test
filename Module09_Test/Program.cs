@@ -14,7 +14,7 @@ namespace Module09_Test
     {
         static void Main(string[] args)
         {
-            int[] array1 = { 3, 4, 33, 4, 5 ,112, 1, 12, 1, 21, 2, 12, 43, 54, 215,3,5, 2,46, 57};
+            int[] array1 = { 3, 4, 33, 4, 5 ,112, 1, 12, 1, 21, 2, 12, 43, 54, 215, 3, 5, 2, 46, 57};
             displayArray(array1);
 
             Console.ReadKey();
