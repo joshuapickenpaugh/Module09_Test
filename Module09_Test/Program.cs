@@ -1,4 +1,8 @@
-﻿using System;
+﻿//Josha Pickenpaugh, IN2017
+//October 14th, 2015
+//In Class Coding
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
